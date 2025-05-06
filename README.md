@@ -55,7 +55,7 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/shinystarlight00/html-simple-portfolio
+$ git clone https://github.com/phantom0811/html-simple-portfolio
 
 # Move into the repository
 $ cd html-simple-portfolio
